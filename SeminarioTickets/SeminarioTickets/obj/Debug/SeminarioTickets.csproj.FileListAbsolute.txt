@@ -1,0 +1,29 @@
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\bin\Debug\SeminarioTickets.exe.config
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\bin\Debug\SeminarioTickets.exe
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\bin\Debug\SeminarioTickets.pdb
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.AssemblyReference.cache
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.SuggestedBindingRedirects.cache
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.Properties.Resources.resources
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.GenerateResource.cache
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.exe
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.pdb
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmBitacora.resources
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmClientes.resources
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmMenu.resources
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmPuestos.resources
+C:\Users\agarc\Desktop\seminario2023\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmColaboradores.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\bin\Debug\SeminarioTickets.exe.config
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\bin\Debug\SeminarioTickets.exe
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\bin\Debug\SeminarioTickets.pdb
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmBitacora.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmClientes.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmColaboradores.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmMenu.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.FrmPuestos.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.Properties.Resources.resources
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.exe
+C:\Users\ferna\OneDrive - MSFT\Tareas Progra\OP\C#\SeminarioTickets\SeminarioTickets\obj\Debug\SeminarioTickets.pdb
